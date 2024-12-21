@@ -1,0 +1,1 @@
+This repository demonstrates a common Groovy bug: unexpected NullPointerExceptions due to loose typing and implicit null handling.  The `bug.groovy` file shows a method that doesn't explicitly handle a null parameter, leading to a runtime exception.  `bugSolution.groovy` provides a corrected version.
